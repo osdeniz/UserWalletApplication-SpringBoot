@@ -25,7 +25,7 @@ public class SimpleCorsFilter implements Filter {
     @Override
     public void destroy() {
         Filter.super.destroy();
-    }//filter servleti implement ettik
+    }//filter servleti implement ettik.
 
 
 }
